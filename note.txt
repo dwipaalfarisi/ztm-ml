@@ -1,0 +1,22 @@
+pandas-intro is the copy from zero-to-mastery-ml,
+since I had a problem with git errors.
+I worked on different ipynb file up to section 6,
+56: manipulating data 3.
+Omiting the exercise.
+
+But it was deleted when I tried to solve the git error.
+I tried to get rid of the conflicting error from
+my repo folder and the folder that I cloned before,
+which has git inside of it.
+In the end, I deleted the git on my repo,
+and it deletes all the files.
+
+To re-done that:
+I cloned the zero-to-mastery-ml repo again.
+Created a new virtual environment called 'ztm'.
+With this venv, I install pandas, sklearn, numpy, and matplotlib.
+Install and created a new ipykernel called 'ztm'.
+
+Then run git init and push it to github repo:
+'ztm-ml'.
+This is the 'First commit'.
