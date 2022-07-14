@@ -11,3 +11,5 @@ Install and created a new ipykernel called 'ztm'.
 Then run git init, remote, and push it to github repo:
 'ztm-ml'.
 This is the 'First commit'.
+
+self-<filename> is the main learning material used.
